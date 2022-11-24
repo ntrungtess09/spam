@@ -1,0 +1,9 @@
+pip install requests
+pip install bs4
+pip install asciimatics
+pip install pypiwin32
+pip install pypwin32
+pip install requests
+pip install pystyle
+pip install keyauth
+pip install pycryptodome
